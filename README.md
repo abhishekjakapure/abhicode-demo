@@ -1,2 +1,3 @@
 # abhicode-demo
-This is my first repo
+This is my first git repository
+Author: Abhishek Jakapure 
