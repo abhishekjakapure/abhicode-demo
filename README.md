@@ -1,4 +1,4 @@
 # abhicode-demo
 This is my first git repository
 <br>
-Author: Abhishek Jakapure 
+Author: Abhishek B. Jakapure 
